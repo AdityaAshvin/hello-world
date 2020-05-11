@@ -2,4 +2,4 @@
 first repository
 hello world,
 this is my first repository.
-[![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.python.org/)
+![Java](https://img.shields.io/badge/Made%20with-Java-orange?style=for-the-badge&logo=java)
